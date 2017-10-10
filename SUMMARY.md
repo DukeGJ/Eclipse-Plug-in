@@ -20,7 +20,7 @@
   * [4.表格式布局](Layout/FormLayout.md)
   * [5.堆栈式布局](Layout/StackLayout.md)
 * [第四部分：事件模型](Events.md)
-* [第五部分：SWT高级控件](di-wu-bu-fen-ff1a-gao-ji-kong-jian.md)
-* 第六部分：JFace
-* 第七部分：RCP
+* [第五部分：SWT高级控件](SWT Advanced Components.md)
+* [第六部分：JFace](JFace.md)
+* [第七部分：RCP](RCP.md)
 
