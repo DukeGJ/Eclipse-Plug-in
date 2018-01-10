@@ -2,5 +2,5 @@
 
 扩展点：org.eclipse.ui.console.consoleFactories
 
-
+内容：
 
