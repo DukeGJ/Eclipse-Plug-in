@@ -24,5 +24,5 @@
 * [第六部分：JFace](JFace.md)
 * [第七部分：RCP](RCP.md)
 * [Eclipse扩展点](EclipseExtension.md)
-  * [编辑区](EclipseExtension/editors.md)
+  * [编辑器](EclipseExtension/editors.md)
 
