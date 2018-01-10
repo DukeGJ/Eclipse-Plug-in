@@ -30,13 +30,13 @@
 
 * launcher：实现了org.eclipse.ui.IEditorLauncher的类。这样启动程序将打开外部编辑器。
 
-> class、command和launcher都是打开编辑器的方式，属性是互斥的。
-
 * filenames：编辑器打开文件时可选的文件名。
 
 * symbolicFontName：编辑器字体的名称。
 
 * matchingStrategy：实现org.eclipse.ui.IEditorMatchingStrategy的类。这运行编辑器扩展提供一个策略，是编辑器的输入与指定的编辑器输入相匹配。
+
+> class、command和launcher都是打开编辑器的方式，属性是互斥的。
 
 
 
