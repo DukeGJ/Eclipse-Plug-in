@@ -25,4 +25,5 @@
 * [第七部分：RCP](RCP.md)
 * [Eclipse扩展点](EclipseExtension.md)
   * [编辑器](EclipseExtension/editors.md)
+    * [配置文件](EclipseExtension/editors/plugin.xml.md)
 
