@@ -27,4 +27,5 @@
   * [编辑器](EclipseExtension/editors.md)
     * [配置文件](EclipseExtension/editors/plugin.xml.md)
   * [视图](EclipseExtension/view.md)
+  * [控制台](EclipseExtension/console.md)
 
