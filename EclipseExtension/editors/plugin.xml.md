@@ -4,14 +4,15 @@
    <extension
          point="org.eclipse.ui.editors">
       <editor
+            class="com.testrcp.myrcp.editors.JsEditor"
+            contributorClass="com.testrcp.myrcp.editors.JsEditorContributor"
             default="false"
-            id="com.hirain.analysis.radar.editor1"
-            name="name">
+            icon="icons/alt_about.gif"
+            id="com.testrcp.myrcp.editors.JsEditor"
+            name="JsEditor">
       </editor>
    </extension>
 ```
-
-
 
 
 
