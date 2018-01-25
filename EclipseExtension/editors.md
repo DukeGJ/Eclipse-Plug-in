@@ -2,7 +2,7 @@
 
 **扩展点**：org.eclipse.ui.editors
 
-**配置文件：**在扩展编辑器中新增扩展点，配置好的plugin.xml文件如下：
+**配置文件**：在扩展编辑器中新增扩展点，配置好的plugin.xml文件如下：
 
 ```
    <extension
