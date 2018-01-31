@@ -27,4 +27,9 @@
   * [编辑器](EclipseExtension/editors.md)
   * [视图](EclipseExtension/view.md)
   * [控制台](EclipseExtension/console.md)
+  * [org.eclipse.ui.views](EclipseExtension/org.eclipse.ui.views.md)
+    * category
+    * e4view
+    * stickyView
+    * View
 
