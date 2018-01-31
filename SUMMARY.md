@@ -28,8 +28,14 @@
   * [视图](EclipseExtension/view.md)
   * [控制台](EclipseExtension/console.md)
   * [org.eclipse.ui.views](EclipseExtension/org.eclipse.ui.views.md)
-    * category
+    * [category](EclipseExtension/org.eclipse.ui.views/category.md)
     * e4view
     * stickyView
     * View
+  * [org.eclipse.ui.command](EclipseExtension/orgeclipseuicommand.md)
+  * [org.eclipse.ui.handlers](EclipseExtension/org.eclipse.ui.handlers.md)
+  * org.eclipse.ui.menus
+  * [org.eclipse.ui.perspectives](EclipseExtension/orgeclipseuiperspective.md)
+  * org.eclipse.ui.console
+  * org.eclipse.ui.perspectivesExtensions
 
