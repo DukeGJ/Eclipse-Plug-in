@@ -29,13 +29,13 @@
   * [控制台](EclipseExtension/console.md)
   * [org.eclipse.ui.views](EclipseExtension/org.eclipse.ui.views.md)
     * [category](EclipseExtension/org.eclipse.ui.views/category.md)
-    * e4view
+    * [e4view](EclipseExtension/org.eclipse.ui.views/e4view.md)
     * stickyView
     * View
   * [org.eclipse.ui.command](EclipseExtension/orgeclipseuicommand.md)
   * [org.eclipse.ui.handlers](EclipseExtension/org.eclipse.ui.handlers.md)
-  * org.eclipse.ui.menus
+  * [org.eclipse.ui.menus](EclipseExtension/orgeclipseuimenus.md)
   * [org.eclipse.ui.perspectives](EclipseExtension/orgeclipseuiperspective.md)
-  * org.eclipse.ui.console
-  * org.eclipse.ui.perspectivesExtensions
+  * [org.eclipse.ui.console](EclipseExtension/orgeclipseuiconsole.md)
+  * [org.eclipse.ui.perspectivesExtensions](EclipseExtension/orgeclipseuiperspectivesextensions.md)
 
