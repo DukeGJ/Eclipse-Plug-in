@@ -30,8 +30,8 @@
   * [org.eclipse.ui.views](EclipseExtension/org.eclipse.ui.views.md)
     * [category](EclipseExtension/org.eclipse.ui.views/category.md)
     * [e4view](EclipseExtension/org.eclipse.ui.views/e4view.md)
-    * stickyView
-    * View
+    * [stickyView](EclipseExtension/org.eclipse.ui.views/stickyview.md)
+    * [View](EclipseExtension/org.eclipse.ui.views/view.md)
   * [org.eclipse.ui.command](EclipseExtension/orgeclipseuicommand.md)
   * [org.eclipse.ui.handlers](EclipseExtension/org.eclipse.ui.handlers.md)
   * [org.eclipse.ui.menus](EclipseExtension/orgeclipseuimenus.md)
