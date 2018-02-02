@@ -1,4 +1,4 @@
-扩展点名:org.eclipse.ui.views
+**扩展点名**:org.eclipse.ui.views
 
-XML文件配置:
+**XML文件配置**:
 
