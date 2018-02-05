@@ -39,5 +39,6 @@
   * [org.eclipse.ui.perspectives](EclipseExtension/orgeclipseuiperspective.md)
   * [org.eclipse.ui.console](EclipseExtension/orgeclipseuiconsole.md)
   * [org.eclipse.ui.perspectivesExtensions](EclipseExtension/orgeclipseuiperspectivesextensions.md)
-* org.eclipse.ui.navigator.viewer
+  * org.eclipse.ui.navigator.viewer
+  * org.eclipse.ui.navigator.navigatorContent
 
