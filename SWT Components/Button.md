@@ -10,6 +10,9 @@
 | SWT.PUSH | 普通按钮 | ![](/assets/push.png) |
 | SWT.RADIO | 单选按钮 | ![](/assets/radio.png) |
 | SWT.BORDER | 深陷型按钮 | ![](/assets/border.png) |
+| SWT.LEFT | 按钮文字左对齐 |  |
+| SWT.RIGHT | 按钮文字右对齐 |  |
+| SWT.CENTER | 按钮文字居中 |  |
 
 **使用方法**
 
