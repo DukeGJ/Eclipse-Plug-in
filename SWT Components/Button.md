@@ -1,6 +1,6 @@
 **Button（按钮）**
 
-常用的SWT组件
+按钮包含普通按钮（SWT.PUSH）、单选按钮（SWT.RADIO）、多选按钮（SWT.CHECK）、箭头按钮（SWT.ARROW）、切换按钮（SWT.TOGGLE）五种类型；按钮可设置按钮的样式，文字对齐方式的样式有 SWT.LEFT、SWT.RIGHT 和 SWT.CENTER，设置按钮外观风格的样式有 SWT.FLAT 和 SWT.BORDER。
 
 **Style（样式）**
 
