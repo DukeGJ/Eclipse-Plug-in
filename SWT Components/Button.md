@@ -1,6 +1,8 @@
 **Button（按钮）**
 
-S**tyle（样式）**
+常用的SWT组件
+
+**Style（样式）:**
 
 | SWT.NONE | 默认按钮 | ![](/assets/none.png) |
 | :---: | :---: | :---: |
