@@ -34,6 +34,8 @@
     * [view](EclipseExtension/org.eclipse.ui.views/view.md)
   * [org.eclipse.ui.command](EclipseExtension/orgeclipseuicommand.md)
     * commands
+    * category
+    * commandParameterType
   * [org.eclipse.ui.handlers](EclipseExtension/org.eclipse.ui.handlers.md)
   * [org.eclipse.ui.menus](EclipseExtension/orgeclipseuimenus.md)
   * [org.eclipse.ui.perspectives](EclipseExtension/orgeclipseuiperspective.md)
