@@ -33,9 +33,9 @@
     * [stickyView](EclipseExtension/org.eclipse.ui.views/stickyview.md)
     * [view](EclipseExtension/org.eclipse.ui.views/view.md)
   * [org.eclipse.ui.command](EclipseExtension/orgeclipseuicommand.md)
-    * commands
-    * category
-    * commandParameterType
+    * [category](EclipseExtension/orgeclipseuicommand/category.md)
+    * [commands](EclipseExtension/orgeclipseuicommand/commands.md)
+    * [commandParameterType](EclipseExtension/orgeclipseuicommand/commandparametertype.md)
   * [org.eclipse.ui.handlers](EclipseExtension/org.eclipse.ui.handlers.md)
   * [org.eclipse.ui.menus](EclipseExtension/orgeclipseuimenus.md)
   * [org.eclipse.ui.perspectives](EclipseExtension/orgeclipseuiperspective.md)
