@@ -43,4 +43,5 @@
   * [org.eclipse.ui.perspectivesExtensions](EclipseExtension/orgeclipseuiperspectivesextensions.md)
   * org.eclipse.ui.navigator.viewer
   * org.eclipse.ui.navigator.navigatorContent
+* [org.eclipse.ui.navigator.linkHelper](orgeclipseuinavigatorlinkhelper.md)
 
