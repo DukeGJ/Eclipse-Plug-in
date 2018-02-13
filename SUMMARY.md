@@ -44,4 +44,5 @@
   * org.eclipse.ui.navigator.viewer
   * [org.eclipse.ui.navigator.navigatorContent](EclipseExtension/orgeclipseuinavigatornavigatorcontent.md)
   * [org.eclipse.ui.navigator.linkHelper](EclipseExtension/orgeclipseuinavigatorlinkhelper.md)
+  * [org.eclipse.core.expressions.propertyTesters](EclipseExtension/orgeclipsecoreexpressionspropertytesters.md)
 
