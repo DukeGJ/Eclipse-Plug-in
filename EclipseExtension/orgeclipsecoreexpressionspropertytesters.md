@@ -1,2 +1,2 @@
-Test扩展点
+Eclipse中Tester扩展点
 
